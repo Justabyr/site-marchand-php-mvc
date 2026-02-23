@@ -24,7 +24,7 @@ Site e-commerce développé en **PHP** avec une **architecture MVC**, permettant
 3. Configurer l’accès BDD dans `app/Config.php`
 4. Lancer : `http://localhost/siteMarchand/public/shop.php`
 
-## 🛠 Technologies
+## Technologies
 - PHP
 - MySQL
 - HTML / CSS
